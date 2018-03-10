@@ -1,0 +1,1 @@
+Displays a random quote using the api at quotesondesign.com
